@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Text.P1">14sp</dimen>
+    <dimen name="Text.P2">12sp</dimen>
+    <dimen name="Text.P3">10sp</dimen>
+    <dimen name="Text.P4">8sp</dimen>
+    <dimen name="marginModerate">8dp</dimen>
+    <dimen name="marginBig">16dp</dimen>
+    <dimen name="marginSmall">4dp</dimen>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="P1" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/Text.P1</item>
+    </style>
+
+    <style name="P2" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/Text.P2</item>
+    </style>
+
+    <style name="P3" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/Text.P3</item>
+    </style>
+
+    <style name="P4" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/Text.P4</item>
+    </style>
+
+    <style name="P1.Regular">
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="P1.Medium">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="P2.Regular">
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="P2.Medium">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="P3.Regular">
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="P3.Medium">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="P4.Regular">
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="P4.Medium">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="P1.Regular.Black">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="P2.Regular.Black">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="P1.Medium.Black">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+</resources>
